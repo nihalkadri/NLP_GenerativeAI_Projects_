@@ -25,4 +25,12 @@ This project covers the following topics, organized as individual sections withi
     - **Stop Words Removal**: Identifying and removing common words (like 'the', 'is') that may not add significant meaning to text analysis.
     - **Named Entity Recognition (NER) Tagging**: Recognizing and categorizing proper nouns, such as names of people, places, and organizations.
     - **Stemming and Lemmatization**: Reducing words to their base or root forms.
+	
+## Project 2: Text_classification_with_Bert_tokenizers_02.ipynb
+
+### Description
+
+This project utilizes Hugging Face’s AutoTokenizer with the pre-trained checkpoint 'bert-base-uncased' to efficiently tokenize text data, enabling seamless integration with BERT model.
+
+
 
