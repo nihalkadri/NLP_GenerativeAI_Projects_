@@ -32,5 +32,10 @@ This project covers the following topics, organized as individual sections withi
 
 This project utilizes Hugging Face’s AutoTokenizer with the pre-trained checkpoint 'bert-base-uncased' to efficiently tokenize text data, enabling seamless integration with BERT model.
 
+## Project 3: NLP_tasks_with_Transformers_03.ipynb
+
+### Description
+
+The notebook `NLP_tasks_with_Transformers_03.ipynb` leverages Hugging Face's Transformers library to explore various NLP tasks using different pre-trained models. This project demonstrates the versatility of transformer models in handling a range of applications, including classifying entire sentences, performing named entity recognition (NER), answering questions based on provided context, generating text summaries, filling in the blanks, and translating languages. Through practical implementations, the project showcases how to utilize the Transformers pipeline effectively for real-world NLP challenges.
 
 
