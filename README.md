@@ -38,4 +38,10 @@ This project utilizes Hugging Face’s AutoTokenizer with the pre-trained checkp
 
 The notebook `NLP_tasks_with_Transformers_03.ipynb` leverages Hugging Face's Transformers library to explore various NLP tasks using different pre-trained models. This project demonstrates the versatility of transformer models in handling a range of applications, including classifying entire sentences, performing named entity recognition (NER), answering questions based on provided context, generating text summaries, filling in the blanks, and translating languages. Through practical implementations, the project showcases how to utilize the Transformers pipeline effectively for real-world NLP challenges.
 
+## Project 4: Sentiment_Analysis_with_Transformers_04.ipynb
+
+### Description
+
+The notebook `Sentiment_Analysis_with_Transformers_04.ipynb` focuses on performing sentiment analysis using Hugging Face's Transformers library. This project implements various pre-trained models, including DistilBERT, RoBERTa, and BERT, to classify the sentiment of text data. By leveraging these state-of-the-art transformer models, the project demonstrates how to effectively analyze and interpret sentiments in textual content, providing insights into the emotional tone conveyed in the data.
+
 
