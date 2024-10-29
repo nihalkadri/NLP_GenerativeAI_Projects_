@@ -49,5 +49,11 @@ The notebook `Sentiment_Analysis_with_Transformers_04.ipynb` focuses on performi
 ### Description
 
 The notebook `Query_Evaluation_for_Topic_Modelling_05.ipynb` explores topic modeling techniques using a dataset of queries related to various Microsoft products and services. The project involves preprocessing the input data, applying Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis/Indexing (LSA/LSI) to identify underlying topics within the queries. Additionally, it utilizes pyLDAvis for topic modeling visualization, providing interactive insights into topic distributions. The model's effectiveness is further evaluated using the CoherenceModel from the `gensim` library, enabling a comprehensive assessment of topic quality and coherence.
- 
+
+## Project 6: llm_rag_app.py
+
+### Description
+
+The `llm_rag_app.py` project implements a chatbot for online shopping using Retrieval Augmented Generation (RAG) powered by OpenAI's GPT-3.5 Turbo. This application integrates LangChain and ChromaDB to enable knowledge grounding, providing users with accurate and relevant responses to their shopping queries. The project utilizes the `llm_rag_dataset` as the input dataset, which informs the chatbot's responses. The user interface of the application is illustrated in the accompanying image `LLM_App_User_Interface.png`, showcasing how users interact with the chatbot to receive personalized shopping assistance.
+
 
